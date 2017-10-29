@@ -1,0 +1,25 @@
+.question-info{
+    text-align: center;
+    margin-top:20px;
+}
+.comment{
+    text-align: right;
+}
+.question-info .author{
+    margin-right:20px;
+}
+.answer-list li{
+    list-style: none;
+    border-bottom: 1px solid #eee;
+    padding-top: 10px;
+}
+.user_info{
+    font-size:16px;
+    color:#9b9b9b;
+    line-height:40px;
+}
+
+.user_info .create_time{
+    float: right;
+}
+

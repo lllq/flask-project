@@ -1,0 +1,20 @@
+ul {
+    list-style:none;
+}
+
+ul li{
+    border-bottom: 1px solid #eee;
+    overflow:hidden;
+    padding:5px 0px;
+}
+.question-title a{
+    color:#259;
+    font-weight:900;
+}
+
+.question-info{
+    text-align:right;
+}
+.question-info .question-author{
+    margin-right:20px;
+}
